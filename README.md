@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://github.com/TinaTabo/TinaTabo/blob/main/Banner%201.jpg)
 
 <!--
 **TinaTabo/TinaTabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
