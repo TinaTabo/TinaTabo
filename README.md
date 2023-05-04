@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://github.com/TinaTabo/TinaTabo/blob/main/Banner%201.jpg)
 
 <!--
