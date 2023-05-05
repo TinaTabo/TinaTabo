@@ -19,8 +19,6 @@ Me considero una persona proactiva, enfocada en el trabajo en equipo y en la mej
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a> <a href="https://docs.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"></a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white"></a>
 - Desarrollo de juegos 🎮  
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?logo=unity"></a>
-- Idiomas 🌎  
-🇬🇧 Inglés B2
 
 ## 📫 Cómo contactarme
 
@@ -32,5 +30,5 @@ Me considero una persona proactiva, enfocada en el trabajo en equipo y en la mej
 
 ![Tus estadísticas de Github](https://github-readme-stats.vercel.app/api?username=TinaTabo&show_icons=true&hide_border=true)
 
-¡Gracias por visitar mi perfil!
+¡Gracias por visitar mi perfil! 👋👩‍💻 ¡Espero que hayas encontrado la información que buscabas! Si tienes alguna pregunta, no dudes en contactar conmigo 📩💬 ¡Que tengas un gran día! 😊👍
 
